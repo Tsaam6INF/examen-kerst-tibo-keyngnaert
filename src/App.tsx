@@ -1,2 +1,5 @@
 function App() {
-  return <p>Info</p><h1>titel</h1>
+  return <h1>ik heb dit opgelost</h1>
+}
+
+export default App
